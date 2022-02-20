@@ -25,3 +25,5 @@ jekyll-theme-type-on-strap.gemspec
 **/node_modules/*
 
 scratch/
+
+assets/img/*

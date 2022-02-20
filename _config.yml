@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://cookieplmonster.github.io"
+url: "https://HoussemNasri.github.io"
 title: Silent's Blog
 description: "A blog and portfolio of Silent" # used by search engines
 permalink: pretty
@@ -165,6 +165,7 @@ defaults:
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge
+ignore_missing_images: true
 sass:
   sass_dir: _sass
   style: :compressed
